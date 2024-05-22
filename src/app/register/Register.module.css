@@ -1,0 +1,15 @@
+.inputBox {
+    height: 35px;
+}
+
+.input {
+    margin-right: 10px;
+}
+
+.col {
+    float: left;
+    width: 110px;
+}
+.check{
+    margin-left: 10px;
+}

@@ -1,0 +1,20 @@
+.body {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.login {
+    float: right;
+
+}
+
+.main {
+    width: 400px;
+}
+
+.loginBtn {
+    margin-right: 30px;
+}
+.logoutBtn{
+    margin-left: 30px;
+}

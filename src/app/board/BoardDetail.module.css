@@ -1,0 +1,19 @@
+.inputBox {
+    height: 28px;
+}
+.col {
+    float: left;
+    width: 50px;
+}
+.btn{
+    margin-left: 10px;
+}
+.comment{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.innerComments{
+    margin-left: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
